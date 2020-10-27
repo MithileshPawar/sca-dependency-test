@@ -1,0 +1,14 @@
+{
+    "name": "testPacakge",
+    "version": "1.0.0",
+    "description": "test project",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"No\" && exit 1"
+    },
+    "keywords": [],
+    "dependencies": {
+        "danny-package": "1.0.2"
+    },
+    "license": "No"
+}
